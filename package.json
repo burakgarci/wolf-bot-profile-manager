@@ -1,0 +1,24 @@
+{
+  "name": "profile-manager-bot",
+  "version": "0.1.0",
+  "description": "Profile Manager Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Burak G",
+  "license": "ISC",
+  "dependencies": {
+    "wolf.js": "2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.1",
+    "eslint": "^8.41.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}

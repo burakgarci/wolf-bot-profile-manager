@@ -1,0 +1,23 @@
+keyword: profile-manager
+framework:
+  developer: 3465374
+  language: en
+
+  command:
+    ignore:
+      official: true
+      unofficial: true
+      self: true
+
+  message:
+    ignore:
+      self: true
+
+  subscriptions:
+    messages:
+      group:
+        enabled: false
+        tipping: false
+      private:
+        enabled: false
+        tipping: false
